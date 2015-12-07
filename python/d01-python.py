@@ -7,6 +7,7 @@ for line in f:
 			floor += 1
 		elif bracket == ")":
 			floor -= 1
+		# comment out this if if looking for the first half of the question
 		if floor < 0:
 			print(char)
 			break
