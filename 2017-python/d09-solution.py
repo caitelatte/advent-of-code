@@ -6,8 +6,6 @@ http://adventofcode.com/2017/day/9
 
 Given a chunk of text which represents a "group", return its total score.
 
-A "group" is consisted of {}
-
 == Input ==
 
 Section of text which contains "groups" of comma-separated  nested "groups" or
