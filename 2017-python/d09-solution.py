@@ -2,6 +2,8 @@
 
 """Advent of Code 2017 Day 9 - Stream Processing
 
+http://adventofcode.com/2017/day/9
+
 Given a chunk of text which represents a "group", return its total score.
 
 A "group" is consisted of {}

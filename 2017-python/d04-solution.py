@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 """Advent of Code 2017 Day 4 - High-Entropy Passphrases
+
+http://adventofcode.com/2017/day/4
 """
 
 INPUT_FILENAME = "d04-input.txt"

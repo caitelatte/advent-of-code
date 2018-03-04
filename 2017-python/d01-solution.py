@@ -2,6 +2,8 @@
 
 """Advent of Code 2017 Day 1 - captcha
 
+http://adventofcode.com/2017/day/1
+
 input: file with string of integers (one line)
 
 output part 1: integer - sum of each digit which is the same as the next digit

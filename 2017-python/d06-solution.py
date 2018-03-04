@@ -2,6 +2,8 @@
 
 """Advent of Code 2017 Day 6 - Memory Reallocation
 
+http://adventofcode.com/2017/day/6
+
 There are 16 memory banks, which can hold any number of blocks.
 
 Reallocation wants to balance blocks between banks.

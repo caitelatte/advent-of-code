@@ -2,6 +2,8 @@
 
 """Advent of Code 2017 Day 2 - Corruption Checksum
 
+http://adventofcode.com/2017/day/2
+
 input: tab-seperated file of numbers
 
 Given a spreadsheet, for each row determine the difference between the largest and smallest values. Return the sum of all of these values.
